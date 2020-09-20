@@ -44,4 +44,4 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
 
 ## 🧮 GH Stats
   
-  [![Yoav's github stats](https://github-readme-stats.vercel.app/api?username=yoavniran&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Yoav's github stats](https://github-readme-stats.vercel.app/api?username=yoavniran&show_icons=true&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
