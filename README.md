@@ -40,3 +40,10 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
 - [LinkedIn](https://www.linkedin.com/in/yoavniran/)
 - [Medium](https://medium.com/@poeticGeek)
 - [Dev.to](https://dev.to/poeticgeek)
+
+
+<p align="center">
+  
+  [![Yoav's github stats](https://github-readme-stats.vercel.app/api?username=yoavniran)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
