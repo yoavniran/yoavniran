@@ -44,6 +44,6 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
 
 <p align="center">
   
-  [![Yoav's github stats](https://github-readme-stats.vercel.app/api?username=yoavniran)](https://github.com/anuraghazra/github-readme-stats)
+  [![Yoav's github stats](https://github-readme-stats.vercel.app/api?username=yoavniran&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
