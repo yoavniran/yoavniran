@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there, I'm <strong>Yoav Niran</strong>.
+  Hi there, I'm <strong>Yoav Niran (<a href="https://twiter.com/poeticGeek">poeticGeek</a>)</strong>.
 </p>
 
 <p align="center">          
