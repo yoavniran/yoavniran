@@ -2,6 +2,11 @@
 Hi there, I'm Yoav Niran.
 </p>
 
+<p align="center>
+  
+![Yoav presenting](https://res.cloudinary.com/yoav-cloud/image/upload/g_face,w_800,h_800,c_fill,q_auto,r_max/v1600601195/profile/71044440_2570314079724131_7087740424122531840_o.jpg)
+  </p>
+
 <p align="center">
 I'm a Senior front-end developer at [Cloudinary](https://cloudinary.com). For many years I've been working on large-scale web projects. 
 These days, I build SPA applications focusing on performance and ease of use. 
