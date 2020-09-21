@@ -20,11 +20,16 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
 
 ## 🎆 My Recent Projects
   
-  |    <!-- -->        |    <!-- -->        |   <!-- -->         
+  |    <!-- -->         |    <!-- -->        |   <!-- -->         
   |----------|----------|----------
   | ![rpldy logo](https://res.cloudinary.com/yoav-cloud/image/upload/q_auto,w_400/v1587552933/rpldy/logo/react-uploady-text-logo.png)  | [React Uploady](https://github.com/rpldy/react-uploady) | Modern file-upload components & hooks for React.
   |  ![wcb cover](https://res.cloudinary.com/whiteclouds/image/upload/q_auto,h_200/v1600602803/cover/cover-2020.png) | [White Clouds Book](https://whitecloudsbook.com) |  A sci-fi novel
   
+  
+## 📺 Talks I Gave
+
+- [React Responsively, Render Responsibly | ReactNext 2018](https://www.youtube.com/watch?v=O6pLZK3R2II)
+- [React Tune Up | React Live 2019](https://www.youtube.com/watch?v=-wrC_qjSf6k)
   
 ## ⌨️ My Recent Blog Posts
 
