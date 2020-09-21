@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there, I'm <strong>Yoav Niran (<a href="https://twiter.com/poeticGeek">poeticGeek</a>)</strong>.
+  Hi there, I'm <strong>Yoav Niran (<a href="https://twitter.com/poeticGeek">poeticGeek</a>)</strong>.
 </p>
 
 <p align="center">          
@@ -41,7 +41,7 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
 
 ## 📱 Find me at:
 
-- [Twitter](https://twiter.com/poeticGeek)
+- [Twitter](https://twitter.com/poeticGeek)
 - [LinkedIn](https://www.linkedin.com/in/yoavniran/)
 - [Medium](https://medium.com/@poeticGeek)
 - [Dev.to](https://dev.to/poeticgeek)
