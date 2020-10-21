@@ -34,6 +34,7 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
   
 ## ⌨️ My Recent Blog Posts
 
+- [In React, component controls you!](https://dev.to/poeticgeek/in-react-component-controls-you-4ed8)
 - [Concrete example for React.useImperativeHandle](https://dev.to/poeticgeek/concrete-example-for-react-useimperativehandle-52l8)
 - [Adding Crop to Image Upload in React](https://medium.com/swlh/adding-crop-before-upload-in-react-22dfcf3a95b7)
 - [Easily upload files in React Native](https://medium.com/@poeticGeek/easily-upload-files-in-react-native-e852aac72a0c)
