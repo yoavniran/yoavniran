@@ -44,6 +44,7 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
 ## 📱 Find me at:
 
 - [Twitter](https://twitter.com/poeticGeek)
+- [Instagram](https://instagram.com/literaryCoder)
 - [LinkedIn](https://www.linkedin.com/in/yoavniran/)
 - [Medium](https://medium.com/@poeticGeek)
 - [Dev.to](https://dev.to/poeticgeek)
