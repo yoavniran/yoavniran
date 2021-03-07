@@ -7,7 +7,7 @@
   </p>
 
 <p align="center">
-  I'm a Senior front-end developer at <a href="https://cloudinary.com" target="_blank">Cloudinary</a>. For many years I've been working on large-scale web projects. 
+  I'm a Senior front-end developer at <a href="https://cloudinary.com" target="_blank">Cloudinary</a>. Over the years I've worked on many large-scale web projects. 
 These days, I build SPA applications focusing on performance and ease of use. 
 </p>
 
