@@ -34,6 +34,7 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
   
 ## ⌨️ My Recent Blog Posts
 
+- [Paste to Upload in React](https://poeticgeek.medium.com/paste-to-upload-in-react-40163ac8907b)
 - [In React, component controls you!](https://dev.to/poeticgeek/in-react-component-controls-you-4ed8)
 - [Concrete example for React.useImperativeHandle](https://dev.to/poeticgeek/concrete-example-for-react-useimperativehandle-52l8)
 - [Adding Crop to Image Upload in React](https://medium.com/swlh/adding-crop-before-upload-in-react-22dfcf3a95b7)
@@ -46,7 +47,7 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
 - [Twitter](https://twitter.com/poeticGeek)
 - [Instagram](https://instagram.com/literaryCoder)
 - [LinkedIn](https://www.linkedin.com/in/yoavniran/)
-- [Medium](https://medium.com/@poeticGeek)
+- [Medium](https://poeticgeek.medium.com/)
 - [Dev.to](https://dev.to/poeticgeek)
 
 
