@@ -23,6 +23,7 @@ I'm currently writing my second book, also sci-fi, unrelated to the first one.
   |    <!-- -->         |    <!-- -->        |   <!-- -->         
   |----------|----------|----------
   | ![rpldy logo](https://res.cloudinary.com/yoav-cloud/image/upload/q_auto,w_400/v1587552933/rpldy/logo/react-uploady-text-logo.png)  | [React Uploady](https://github.com/rpldy/react-uploady) | Modern file-upload components & hooks for React.
+  | ![quadrum-logo](https://github.com/yoavniran/quadrum/raw/main/docs/assets/logo-dark.png) | [Quadrum](https://github.com/yoavniran/quadrum) | A small, MIT-licensed, zero-dependency chess board renderer for the web, with first-party React bindings
   |  ![wcb cover](https://res.cloudinary.com/whiteclouds/image/upload/q_auto,h_200/v1600602803/cover/cover-2020.png) | [White Clouds Book](https://whitecloudsbook.com) |  A sci-fi novel
   | ![uutcs](https://res.cloudinary.com/yoavniran/image/upload/q_auto,w_400,f_auto/v1603209048/uutcs-logo_zunwh4) | [The Ultimate Unit Testing Cheat-sheet](https://gist.github.com/yoavniran/1e3b0162e1545055429e) |  For Jest, Mocha, Chai and Sinon
   
