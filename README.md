@@ -7,14 +7,14 @@
   </p>
 
 <p align="center">
-  I'm a R&D team leader at <a href="https://cloudinary.com" target="_blank">Cloudinary</a>. Over the years I've worked on many large-scale web projects. 
-These days, I build SPA applications focusing on performance and ease of use. 
+  I'm leading the AI Enablement team at <a href="https://cloudinary.com" target="_blank">Cloudinary</a>. Over the years I've worked on many large-scale web projects. 
+I've led R&D teams and groups to build exceptional tools & applications with a focus on UI & UX.
+  These days I'm all in on empowering employees (and our builders) in our organization to maximize their work by leaning into automation and AI use in order to become more efficient.
 </p>
 
 <p align="center">
 In addition to writing code, over the last few years, I'm pursuing my goal of becoming a novelist 📖. 
-  My first novel: <a href="https://whitecloudsbook.com" target="_blank">White Clouds</a> is now done and I'm working toward self-publishing it. 
-I'm currently writing my second book, also sci-fi, unrelated to the first one.
+  This is a passion I one day hope to realize by publishing for the world to read!
 </p>
 
 
